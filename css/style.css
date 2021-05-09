@@ -1,0 +1,101 @@
+body{
+    font-family: 'Orelega One', cursive;
+    
+    text-align: justify;
+}
+.header{
+    height: 93vh;
+    width : auto;
+    background:linear-gradient(to right, rgba(0,0,0,.7), rgba(0,0,0,.9)),url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);  
+   background-size: cover;
+    color: blanchedalmond;
+
+}
+
+.h-100{
+       width : auto;
+}
+.btn {
+    border-radius: 3rem !important;
+    padding: 0.525rem 1.25rem !important;
+}
+.myh1{
+    font-size: 4.5rem !important;
+
+}
+.navbar{
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+.skill{
+   
+    width : 100%;
+   background:linear-gradient(to right, rgba(0,0,0,.7), rgba(0,0,0,.9)),url(https://cdn.pixabay.com/photo/2016/03/26/14/42/macbook-1280687_960_720.jpg);  
+   background-size: cover;
+    color: blanchedalmond;
+    
+
+}
+.myrow{
+    
+    background:rgba(221, 67, 118, 0.514);
+}
+.cy{
+    display: flex;
+    color:black;
+}
+.cy > .my {
+    background-color: #f1f1f1;
+    margin: 15px;
+    padding: 10px;
+    font-size: 10px;
+  }
+
+.contact{
+   
+    width : auto;
+   background:linear-gradient(to right, rgba(0,0,0,.7), rgba(0,0,0,.9)),url(https://wallpapercave.com/wp/wp2533124.jpg);
+   color: blanchedalmond;
+   background-size: cover;
+
+   
+}
+.form-control {
+    color: #f1f1f1;
+    background-color: transparent;
+    background-clip: padding-box;
+    background-color: transparent;
+    border-left: 1px solid transparent;
+    border-top: 1px solid transparent;
+    border-right: 1px solid transparent;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.up > .btn{
+    margin-left: 15px;
+    border-radius: 0rem !important;
+}
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+
+
+
+    .myform {
+        max-width:380px;
+        
+        padding: 1em, 5em,1em,1em;
+        background:transparent;
+        
+      }
+      input, textarea {
+        width: 75%;
+        background-color: transparent;
+  
+      }
+      
+
